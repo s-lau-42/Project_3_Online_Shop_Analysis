@@ -133,3 +133,4 @@ dmypy.json
 *.pickle
 *.pkl
 *.zip
+*.yml
