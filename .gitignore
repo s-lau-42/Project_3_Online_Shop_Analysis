@@ -134,3 +134,5 @@ dmypy.json
 *.pkl
 *.zip
 *.yml
+*.json
+*.geojson
