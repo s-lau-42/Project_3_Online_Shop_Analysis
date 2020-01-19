@@ -1,4 +1,8 @@
 <h1> Every Customer Counts ? </h1>
+
+My third and last project taking part in a Data Science bootcamp.
+<br>
+<br>
 Online shops gather a multitude of data every time a customer visits their shop or buys something.  How to process and analyze this data is the topic of this project. It incorporates building metadata, clustering and predicting to the end of finding results which could be used as a mean to further the success of the business.
 <br>
 <br>
